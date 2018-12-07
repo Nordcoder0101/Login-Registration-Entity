@@ -1,0 +1,44 @@
+.LoginHeader {
+  display: inline-block;
+  text-align: center;
+  margin: 10px 0 100px 10%;
+}
+
+label {
+  display: block;
+  padding: 10px 0 0 0;
+}
+
+.submit {
+  display: block;
+  margin: 10px 0 0 0;
+}
+
+.form-container{
+  display: inline-block;
+  width: 500px;
+  height: 400px;
+}
+div {
+  display: inline-block;
+}
+.form{
+  width: 380px;
+  height: 300px;
+}
+
+.login {
+  margin: 0 0 0 20%
+}
+
+.left-login{
+  width: 250px;
+  height: 320px;
+}
+
+.right-login{
+  width: 160px;
+  vertical-align: top;
+}
+
+
